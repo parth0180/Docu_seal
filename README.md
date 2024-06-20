@@ -41,7 +41,7 @@ Dou Seal is a cheaper alternative to DocuSign, offering the same functionalities
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/yourusername/dou-seal.git
+    git clone https://github.com/parth0180/Docu_seal.git
     cd dou-seal
     ```
 
